@@ -22,29 +22,29 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = '𝑆𝛪𝐷 𝐵𝛨𝛥𝛪';
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫';
+global.ownername = '𝛥𝑅𝑆𝛨𝛪𝑇𝛨';
+global.owner = ['919846201004'];
+global.premium = ['919846201004'];
+global.packname = '';
+global.author = '𝛥𝑅𝑆𝛨𝛪𝑇𝛨';
 global.sessionName = 'session';
 global.prefa = ['', '!', '.'];
 global.sp = '✪';
 global.mess = {
-    banned: '`You are *Banned* fron using commands!`',
+    banned: '`You are *Banned* from using commands!`',
     bangc: '`This Group is *Banned* from using Commands!`',
     success: '`✓ Success`',
-    admin: '`This feature is only for group admins`',
-    botAdmin: '`I am not an admin!`',
-    owner: '`You are not my owner`',
+    admin: '`Ee feature use cheyyan ninakk yogam illya!`',
+    botAdmin: '`Adhyam admin aakk`',
+    owner: '`Ayn nee etha!?`',
     group: '`You can use this command only in groups ❌`',
     private: '`Feature is used only for private chats!`',
     bot: '`Bot number user special features`',
     wait: '*Processing Your request*',
     endLimit: '`Your daily limit has expired, the limit will be reset every 12 hours`',
 };
-global.link = 'https://whatsapp.com/channel/0029VaFNrVHBfxoBuY2TzH2w'
-global.linkGroup = 'https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp'
+global.link = 'https://chat.whatsapp.com/BimhDs7A75W79XbOY4D0iW'
+global.linkGroup = 'https://chat.whatsapp.com/BimhDs7A75W79XbOY4D0iW'
 global.autoswview = process.env.AUTO_STATUS_SEEN || "true",
 global.typemenu = 'v1' // 'v1' => 'v5'
 global.onlygroup = false // onlygroup
